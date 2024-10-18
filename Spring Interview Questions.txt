@@ -1,0 +1,68 @@
+Spring Core
+
+Why is spring framework ?
+Whar are the advantages of using spring framework ?
+What is IOC container?
+What is spring bean ?
+What is dependency injection ?
+Difference b/w setter and constructor injection ?
+What are the different bean scops ?
+What are the modules in spring framework ?
+What is bean life cycle ?
+What are the different implementation of IOC container in spring framework ?
+Difference between bean factory and application context ?
+What is bean autowiring ?
+What are the stereotype annotations ?
+How many ways we can create spring bean ?
+What are the commonly use annotations in spring framework ?
+What is the use of @Primary annotation ?
+Spring MVC Explain the execution flow of spring mvc application ?
+
+String Boot
+
+What is spring boot ?
+What are the features of Spring boot ?
+what are the annotations use in spring boot ?
+Can we apply @Component annotation in place of @service ?
+What is the use @Inject and @Named ?
+What @SpringbootApplication annotation contains ?
+How to use two different databases for one spring boot application?
+How spring boot does dependency management?
+List down some spring boot starter projects that you use in your project ?
+How to exclude default tomcat server ?
+How to enable jetty server in spring boot application ?
+How you will disable auto configuration ?
+How to configure two different beans of spring boot class ?
+When and where to use @Bean annotation ?
+What is actuator ? Why we need to use it ?
+What are the rest end points comes under actuator ?
+How to pass custom information in actuator ?
+What is the difference between YAML file and properties file ? Which is preferred ?
+How to read properties from properties ?
+What is command line runner ? What is the use of it ?
+What is spring boot profiles ? why we need them ? how to dynamically activate profile ?
+What is auto Configuration in spring boot ?
+What is developer tool in spring boot ?
+How to write custom sql query in Repository layer ?
+What is the use of @Param annotation ?
+How to handle global exception in spring boot ?
+What is the purpose of the @RequestBody annotation?
+Rest API
+
+What is REST ?
+What is the difference between Soap and Rest ?
+What is Resource ?
+What are the best practices while designing restful services?
+What is safe and unsafe methods ?
+What is the difference between post and put method ?
+What is patch method ?
+What is the difference between put and patch ?
+What are the annotations that you frequently use in rest ?
+How to switch request and response data format from json to xml?
+What is the difference between @GetMapping and @RequestMapping ?
+What is the difference between @RequestParam and @PathVariable ?
+What are different http status code responses ?
+What is the difference between @RestController and @Controller ?
+How did you handle exceptions in your restful service project ?
+What is payload ?
+what is the flow of execution of rest api application?
